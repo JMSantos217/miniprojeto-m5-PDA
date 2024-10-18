@@ -14,7 +14,7 @@ Este projeto foi desenvolvido com o intuito de criar uma interface amigável par
 
 ## Imagens do projeto:
 
-| ![Image 1]() | ![Image 2]() |
+| ![Image 1](./imagens-site/desktop.png) | ![Image 2](./imagens-site/mobile.png) |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 
 ## Tecnologias Utilizadas:
@@ -44,6 +44,9 @@ cd seu-repositorio
 npm install
 npm install axios
 npm install -g nodemon
+npm install react-icons
+npm install styled-components
+
 ```
 
 ### Passo 3: Iniciar o Servidor
